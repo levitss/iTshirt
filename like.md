@@ -1,1 +1,1 @@
-like function
+like functions
